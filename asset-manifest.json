@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wether/static/css/main.d30962f8.css",
+    "main.js": "/Wether/static/js/main.d18f7171.js",
+    "static/js/453.d54ae50e.chunk.js": "/Wether/static/js/453.d54ae50e.chunk.js",
+    "index.html": "/Wether/index.html",
+    "main.d30962f8.css.map": "/Wether/static/css/main.d30962f8.css.map",
+    "main.d18f7171.js.map": "/Wether/static/js/main.d18f7171.js.map",
+    "453.d54ae50e.chunk.js.map": "/Wether/static/js/453.d54ae50e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30962f8.css",
+    "static/js/main.d18f7171.js"
+  ]
+}
